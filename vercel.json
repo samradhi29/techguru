@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/api/test-mcp", "destination": "/backend/server.js" }
+    ]
+  }
+  
